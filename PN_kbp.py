@@ -185,5 +185,5 @@ pesquisaGoogleNews()
 #JogoSerioAlgazarra()
 #JogoSerioPolicial()
 #testandoHeaders()
-#pesquisaTudo()
+pesquisaTudo()
 
