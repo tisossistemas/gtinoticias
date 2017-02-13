@@ -172,7 +172,7 @@ def pesquisaTudo(pesquisa=''):
     else:
         pesquisaGoogleNewsP(pesquisa)
         pesquisaG1P(pesquisa)
-pesquisaGoogleNews()
+#pesquisaGoogleNews()
 #pesquisaG1()
 #pesquisaIg()
 #pesquisaTwiter()
